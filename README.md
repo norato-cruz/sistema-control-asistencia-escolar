@@ -5,7 +5,8 @@
 ![Database](https://img.shields.io/badge/Database-Microsoft%20Access-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-Aplicación de escritorio desarrollada en **C# (Windows Forms)** conectada a **Microsoft Access** mediante **OLE DB / DataSets / ReportViewer**, orientada a la administración, gestión y reporte de asistencia estudiantil para el Liceo Italiano Trilingüe.
+Aplicación de escritorio desarrollada en **C# (Windows Forms)** conectada a **Microsoft Access** mediante **OLE DB / DataSets / ReportViewer**, orientada a la administración, gestión y reporte de asistencia estudiantil para el Liceo Italiano Trilingüe. Sistema realizado en práctica profesional Bachillerato en Computación, Instituto de Estudios Avanzados (IEA) 
+5 de Octubre del 2026. 
 
 ---
 
